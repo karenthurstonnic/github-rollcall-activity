@@ -569,4 +569,8 @@ Name, Organization, and (optionally) Contact Info
 * Steven Bradley, Durham University UK
    * Github: stevenaeola
    * Email: s.p.bradley@durham.ac.uk
+   
+* Karen Thurston, North Idaho College
+  * Github: karenthurstonnic
+  * Email: karen.thurston@nic.edu
 
